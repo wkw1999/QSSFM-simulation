@@ -1,9 +1,7 @@
 # QSSFM-simulation
 Python codes for quantum-classical split-step Fourier simulation
 
-# Project Title
-
-This repository contains the source code, numerical examples, data-processing scripts, and plotting routines for the paper:
+This repository contains the source code, data-processing scripts, and plotting routines for the paper:
 
 **Title:** Quantum computing of the nonlinear Schrödinger equation via measurement-induced potential reconstruction  
 **Authors:** Kaiwen Weng, Zhaoyuan Meng, and Guohui Hu
