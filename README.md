@@ -5,10 +5,8 @@ Python codes for quantum-classical split-step Fourier simulation
 
 This repository contains the source code, numerical examples, data-processing scripts, and plotting routines for the paper:
 
-**Title:** *Your Paper Title Here*  
-**Authors:** Your Name, Coauthor Name  
-**Journal / Preprint:** To be added  
-**DOI / arXiv:** To be added  
+**Title:** Quantum computing of the nonlinear Schrödinger equation via measurement-induced potential reconstruction  
+**Authors:** Kaiwen Weng, Zhaoyuan Meng, and Guohui Hu
 
 ## Overview
 
